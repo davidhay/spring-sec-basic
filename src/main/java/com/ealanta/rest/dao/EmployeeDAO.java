@@ -1,7 +1,7 @@
-package com.howtodoinjava.rest.dao;
+package com.ealanta.rest.dao;
 
-import com.howtodoinjava.rest.model.Employee;
-import com.howtodoinjava.rest.model.Employees;
+import com.ealanta.rest.model.Employee;
+import com.ealanta.rest.model.Employees;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

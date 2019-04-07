@@ -1,4 +1,4 @@
-package com.howtodoinjava.rest.model;
+package com.ealanta.rest.model;
 
 public class Employee {
 

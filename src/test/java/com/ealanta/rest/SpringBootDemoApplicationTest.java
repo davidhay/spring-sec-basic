@@ -1,9 +1,9 @@
-package com.howtodoinjava.rest;
+package com.ealanta.rest;
 
 
-import com.howtodoinjava.rest.dao.EmployeeDAO;
-import com.howtodoinjava.rest.model.Employee;
-import com.howtodoinjava.rest.model.Employees;
+import com.ealanta.rest.dao.EmployeeDAO;
+import com.ealanta.rest.model.Employee;
+import com.ealanta.rest.model.Employees;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -16,7 +16,6 @@ import org.springframework.http.MediaType;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
-import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
 import static org.hamcrest.Matchers.equalTo;

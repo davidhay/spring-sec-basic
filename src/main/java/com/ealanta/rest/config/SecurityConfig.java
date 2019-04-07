@@ -1,4 +1,4 @@
-package com.howtodoinjava.rest.config;
+package com.ealanta.rest.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
